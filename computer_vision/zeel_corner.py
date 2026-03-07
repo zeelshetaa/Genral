@@ -1,13 +1,9 @@
 import cv2
 import numpy as np
 
-"""
-Harris Corner Detector
-https://en.wikipedia.org/wiki/Harris_Corner_Detector
-"""
 
 
-class HarrisCorner:
+class zeelCorner:
     def __init__(self, k: float, window_size: int):
         """
         k : is an empirically determined constant in [0.04,0.06]
