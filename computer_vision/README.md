@@ -7,4 +7,7 @@ Image processing and computer vision are a little different from each other. Ima
 
 While computer vision comes from modelling image processing using the techniques of machine learning, computer vision applies machine learning to recognize patterns for interpretation of images (much like the process of visual reasoning of human vision).
 
+
+
+Get more knowledge here...>>
 * <https://en.wikipedia.org/wiki/Computer_vision>
