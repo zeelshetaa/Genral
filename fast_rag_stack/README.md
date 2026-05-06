@@ -16,7 +16,7 @@ Get an API key from [SambaNova](https://sambanova.ai/) and set it in the `.env` 
 ```bash
 SAMBANOVA_API_KEY=<YOUR_SAMBANOVA_API_KEY> 
 ```
-
+Make folder 'resources' and add your documents there.
 **Setup Qdrant VectorDB**
    ```bash
    docker run -p 6333:6333 -p 6334:6334 \
@@ -38,15 +38,3 @@ SAMBANOVA_API_KEY=<YOUR_SAMBANOVA_API_KEY>
    streamlit run app.py
    ```
 
----
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
----
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
